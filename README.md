@@ -1,4 +1,4 @@
-# _TITLE_
+# _To Do List_
 
 #### By _**Jessica Baker, William Jameson & Drew Henderson**_ 
 
@@ -16,7 +16,7 @@ DESCRIBE
 
 ## Setup/Installation Requirements
 
-* Go to _GITLINK_
+* Go to _https://github.com/jessb-epicodus/to-do-list-c-.git_
 * Cone this repository to your desktop (or other desired location)
 * Navigate to the top level of the directory called _DIRECTORY_
 * Open the index.html file in your browser
@@ -36,7 +36,6 @@ _If you run into any issues or have questions, ideas or concerns or wish to make
 * Jessica Baker <jessb.epicodus@gmail.com>
 * William Jameson <williamjameson90@gmail.com>
 * Drew Henderson <drewhendersonemail@gmail.com>
-
 
 
 Co-authored-by: William Jameson <williamjameson90@gmail.com>
