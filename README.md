@@ -36,7 +36,3 @@ _If you run into any issues or have questions, ideas or concerns or wish to make
 * Jessica Baker <jessb.epicodus@gmail.com>
 * William Jameson <williamjameson90@gmail.com>
 * Drew Henderson <drewhendersonemail@gmail.com>
-
-
-Co-authored-by: William Jameson <williamjameson90@gmail.com>
-Co-authored-by: Drew Henderson <drewhendersonemail@gmail.com>"
