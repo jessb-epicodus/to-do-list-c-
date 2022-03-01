@@ -6,8 +6,7 @@ using ToDoList;
 namespace ToDoList.Tests {
   [TestClass] 
   public class ItemTests : IDisposable {
-    public void Dispose()
-    {
+    public void Dispose() {
       Item.ClearAll();
     }
     [TestMethod] 
