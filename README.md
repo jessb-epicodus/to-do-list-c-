@@ -36,4 +36,5 @@ Copyright (c) _Mar 2022_ _Jessi Baker_
 ## Contact
 
 _If you run into any issues or have questions, ideas or concerns or wish to make a contribution to the code see contact information below._
+<<<<<<< HEAD
 * Jessi Baker <jessb.epicodus@gmail.com>
