@@ -10,7 +10,7 @@ namespace ToDoList.Controllers {
       return View(allItems);
     }
     [HttpGet("/items/new")]
-    public ActionResult CreateForm() {
+    public ActionResult New() {
       return View();
     }
     [HttpPost("/items")]
@@ -23,6 +23,12 @@ namespace ToDoList.Controllers {
     {
       Item.ClearAll();
       return View();
+    }
+    [HttpGet("/items/{id}")]  //  dynamic routing
+    public ActionResult Show(int id)
+    {
+      Item foundItem = Item.Find(id);
+      return View(foundItem);
     }
   }
 }
