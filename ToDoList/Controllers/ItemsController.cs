@@ -18,5 +18,11 @@ namespace ToDoList.Controllers {
       Item myItem = new Item(description);
       return RedirectToAction("Index");  //  tells the server to invoke the Index() route after the Create() route has been invoked
     }
+    [HttpPost("/items/delete")]
+    public ActionResult DeleteAll()
+    {
+      Item.ClearAll();
+      return View();
+    }
   }
 }

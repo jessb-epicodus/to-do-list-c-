@@ -1,8 +1,8 @@
 # _To Do List_
 
-#### By _**Jessica Baker, William Jameson & Drew Henderson**_ 
+#### By _**Jessi Baker, William Jameson & Drew Henderson**_ 
 
-#### _To Do List - Epicodus - C# and .NET - Test-Driven Development With C#_
+#### _To Do List - Epicodus - C# and .NET - Test-Driven Development With C# | Basic Web Applications_
 
 ## Technologies Used
 
@@ -28,15 +28,9 @@ DESCRIBE
 
 ## License
 
-Copyright (c) _Jan 2022_ _Jessica Baker_
+Copyright (c) _Mar 2022_ _Jessi Baker_
 
 ## Contact
 
 _If you run into any issues or have questions, ideas or concerns or wish to make a contribution to the code see contact information below._
-* Jessica Baker <jessb.epicodus@gmail.com>
-* William Jameson <williamjameson90@gmail.com>
-* Drew Henderson <drewhendersonemail@gmail.com>
-
-
-Co-authored-by: William Jameson <williamjameson90@gmail.com>
-Co-authored-by: Drew Henderson <drewhendersonemail@gmail.com>"
+* Jessi Baker <jessb.epicodus@gmail.com>
