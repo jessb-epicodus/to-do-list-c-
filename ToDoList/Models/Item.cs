@@ -14,14 +14,11 @@ namespace ToDoList.Models {
     public static List<Item> GetAll() {
       return _instances;
     }
-    public static void ClearAll() {
+    public static void ClearAll() {  // needed for List/IDispose for testing
       _instances.Clear();
     }
-
-    public static Item Find(int searchId)
-    {
+    public static Item Find(int searchId) {
       return _instances[searchId - 1];
     }
-
   }
 }
